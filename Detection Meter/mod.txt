@@ -1,0 +1,14 @@
+{
+	"name" : "Detection Meter",
+	"description" : "",
+	"author" : "",
+	"contact" : "",
+	"version" : "1.0",
+	"hooks" : [
+		{
+		   
+			"hook_id" : "lib/managers/hud/hudsuspicion",
+			"script_path" : "Lua/StealthMeter.lua"
+		}
+    ]
+}
